@@ -1,2 +1,2 @@
 ## Link to problem:
-![](https://leetcode.com/problems/assign-cookies/)
+![Assign Cookies Problem](https://leetcode.com/problems/assign-cookies/)
